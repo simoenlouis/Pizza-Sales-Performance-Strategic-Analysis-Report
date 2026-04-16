@@ -35,10 +35,6 @@ This project performs a comprehensive Data Analysis (EDA) on a pizza restaurant'
 * images/: Folder containing exported charts and graphs.
 * <img width="580" height="521" alt="image" src="https://github.com/user-attachments/assets/6290a08a-aeb2-4d24-aa9a-5aa4a6203b0a" />
 
-* <img width="580" height="517" alt="image" src="https://github.com/user-attachments/assets/49cd5f39-5f1a-4d64-9d42-70ab69032551" />
-
-* <img width="589" height="467" alt="image" src="https://github.com/user-attachments/assets/89f39c59-93d6-4e92-95b2-4833d01a0df0" />
-
 * <img width="410" height="431" alt="image" src="https://github.com/user-attachments/assets/f447fc3a-b223-4eff-9d3b-942c2c51cbe1" />
 
 * <img width="458" height="431" alt="image" src="https://github.com/user-attachments/assets/20986736-27f1-429f-b855-49855ec5aa2d" />
