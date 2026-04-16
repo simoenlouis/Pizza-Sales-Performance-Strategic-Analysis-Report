@@ -33,6 +33,8 @@ This project performs a comprehensive Data Analysis (EDA) on a pizza restaurant'
 * pizza_analysis.ipynb: The main Jupyter Notebook containing the code and visualizations.
 * pizza_sales.csv: The raw dataset (ensure this is in your repo).
 * images/: Folder containing exported charts and graphs.
+* <img width="410" height="431" alt="image" src="https://github.com/user-attachments/assets/f447fc3a-b223-4eff-9d3b-942c2c51cbe1" />
+
 
 ## Author
 - Simoen Louis
