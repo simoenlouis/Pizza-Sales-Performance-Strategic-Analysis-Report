@@ -4,7 +4,7 @@ Kaggle Link: (https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales)
 This project performs a comprehensive Data Analysis (EDA) on a pizza restaurant's sales dataset. The goal is to uncover actionable insights regarding customer behavior, peak sales periods, and menu performance to help the business increase revenue and optimize operations.
 
 ## 🛠️ Tech Stack
-* *SQL Analysis Snippets
+* SQL Analysis Snippets
    In a real-world production environment, the data would be queried from a database.
 * *Language:* Python
 * *Libraries:* * *Pandas:* For data manipulation and cleaning.
