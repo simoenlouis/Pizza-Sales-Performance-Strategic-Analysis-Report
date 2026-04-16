@@ -41,6 +41,9 @@ This project performs a comprehensive Data Analysis (EDA) on a pizza restaurant'
 
 * <img width="410" height="431" alt="image" src="https://github.com/user-attachments/assets/f447fc3a-b223-4eff-9d3b-942c2c51cbe1" />
 
+* <img width="458" height="431" alt="image" src="https://github.com/user-attachments/assets/20986736-27f1-429f-b855-49855ec5aa2d" />
+
+
 
 ## Author
 - Simoen Louis
